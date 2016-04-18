@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Probar Spinner</string>
+    <string-array name="opciones">
+        <item>Opción 1</item>
+        <item>Opción 2</item>
+        <item>Opción 3</item>
+        <item>Opción 4</item>
+    </string-array>
+</resources>
